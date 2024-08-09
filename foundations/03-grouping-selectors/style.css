@@ -1,0 +1,13 @@
+.call {
+    font-family: Helvetica, "Times new Roman", sans-serif;
+    font-size: 28px;
+}
+
+.call.one {
+    background-color: purple;
+    color: white;
+}
+
+.call.two {
+    background-color: yellow;
+}
